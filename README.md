@@ -18,7 +18,7 @@ Keyboard input support (if applicable)
 
 HTML5
 
-CSS3
+CSS3 
 
 JavaScript (Vanilla)
 
