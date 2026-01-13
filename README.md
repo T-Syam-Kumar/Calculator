@@ -6,7 +6,7 @@ A simple, responsive web-based calculator built with HTML, CSS, and JavaScript.
 
 ✨ Features
 
-Basic arithmetic operations: addition, subtraction, multiplication, division
+Basic arithmetic operations: addition, subtraction, multiplication, division    
                           
 Clear (C) and delete (←) buttons
 
