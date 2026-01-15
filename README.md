@@ -8,7 +8,7 @@ A simple, responsive web-based calculator built with HTML, CSS, and JavaScript.
 
 Basic arithmetic operations: addition, subtraction, multiplication, division    
                           
-Clear (C) and delete (←) buttons
+Clear (C) and delete (←) buttons   
 
 Responsive layout for mobile and desktop
 
