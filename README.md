@@ -2,7 +2,7 @@
 
 A simple, responsive web-based calculator built with HTML, CSS, and JavaScript.
 
-🌐 Live Demo: https://t-syam-kumar.github.io/Calculator/
+🌐 Live Demo: https://t-syam-kumar.github.io/Calculator/ 
 
 ✨ Features
 
