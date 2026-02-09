@@ -12,7 +12,7 @@ Clear (C) and delete (←) buttons
 
 Responsive layout for mobile and desktop
 
-Keyboard input support (if applicable) 
+Keyboard input support (if applicable)  
 
 🚀 Technologies Used
 
