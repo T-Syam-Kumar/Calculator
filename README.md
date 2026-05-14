@@ -1,10 +1,10 @@
-🔢 Calculator
+ Calculator
 
 A simple, responsive web-based calculator built with HTML, CSS, and JavaScript.
 
-🌐 Live Demo: https://t-syam-kumar.github.io/Calculator/ 
+ Live Demo: https://t-syam-kumar.github.io/Calculator/ 
 
-✨ Features   
+ Features   
  
 Basic arithmetic operations: addition, subtraction, multiplication, division    
                            
@@ -14,7 +14,7 @@ Responsive layout for mobile and desktop
 
 Keyboard input support (if applicable)  
 
-🚀 Technologies Used
+ Technologies Used
 
 HTML5
 
@@ -22,11 +22,9 @@ CSS3
 
 JavaScript (Vanilla)
 
-📸 Preview
 
-(Optional: Replace with a real screenshot of your app or remove this section)
 
-🛠️ How to Use Locally
+How to Use Locally
 # Clone the repository
 git clone https://github.com/T-Syam-Kumar/Calculator.git
 
