@@ -31,4 +31,4 @@ git clone https://github.com/T-Syam-Kumar/Calculator.git
 # Navigate into the project folder
 cd Calculator
 
-# Open index.html in your browser
+# Open index.html in your browser 
