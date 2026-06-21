@@ -23,12 +23,3 @@ CSS3
 JavaScript (Vanilla)
 
 
-
-How to Use Locally
-# Clone the repository
-git clone https://github.com/T-Syam-Kumar/Calculator.git
-
-# Navigate into the project folder
-cd Calculator
-
-# Open index.html in your browser 
