@@ -1,4 +1,4 @@
- Calculator
+# Calculator
 
 A simple, responsive web-based calculator built with HTML, CSS, and JavaScript.
 
